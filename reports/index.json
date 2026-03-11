@@ -6,6 +6,35 @@
   },
   "entries": [
     {
+      "id": "20260308-121830-y420",
+      "title": "Mirieta, R Ó N Î N",
+      "commanders": [
+        "Mirieta",
+        "R Ó N Î N"
+      ],
+      "dateStart": "2026-03-08T16:18:30.000Z",
+      "dateEnd": "2026-03-08T17:35:43.000Z",
+      "dateLabel": "08/03/2026, 12:18:30 - 08/03/2026, 13:35:43",
+      "url": "https://thebestscrapper.github.io/scrapper/?report=20260308-121830-y420",
+      "summary": {
+        "borderlandsPct": 0.38461538461538464,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260310-204210-3e5y",
       "title": "Leo Stole My Heart",
       "commanders": [
