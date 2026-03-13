@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260312-210719-ysuu",
+      "title": "Leo Stole My Heart",
+      "commanders": [
+        "Leo Stole My Heart"
+      ],
+      "dateStart": "2026-03-13T01:07:19.000Z",
+      "dateEnd": "2026-03-13T02:22:27.000Z",
+      "dateLabel": "12/03/2026, 21:07:19 - 12/03/2026, 22:22:27",
+      "url": "https://thebestscrapper.github.io/scrapper/?report=20260312-210719-ysuu",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 31,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260312-203302-03eq",
       "title": "Leo Stole My Heart",
       "commanders": [
