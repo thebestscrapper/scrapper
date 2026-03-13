@@ -6,6 +6,39 @@
   },
   "entries": [
     {
+      "id": "20230611-210505-ikek",
+      "title": "Sparkling Sasquatch",
+      "commanders": [
+        "Sparkling Sasquatch"
+      ],
+      "dateStart": "2023-06-12T01:05:05.000Z",
+      "dateEnd": "2023-06-12T03:01:08.000Z",
+      "dateLabel": "11/06/2023, 21:05:05 - 11/06/2023, 23:01:08",
+      "url": "https://thebestscrapper.github.io/scrapper/?report=20230611-210505-ikek",
+      "summary": {
+        "borderlandsPct": 0.7037037037037037,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260312-210719-ysuu",
       "title": "Leo Stole My Heart",
       "commanders": [
