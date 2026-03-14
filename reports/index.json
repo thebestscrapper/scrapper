@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260313-221735-gz0n",
+      "title": "R Ó N Î N",
+      "commanders": [
+        "R Ó N Î N"
+      ],
+      "dateStart": "2026-03-14T02:17:35.000Z",
+      "dateEnd": "2026-03-14T03:40:50.000Z",
+      "dateLabel": "13/03/2026, 22:17:35 - 13/03/2026, 23:40:50",
+      "url": "https://thebestscrapper.github.io/scrapper/?report=20260313-221735-gz0n",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 35,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20230611-210505-ikek",
       "title": "Sparkling Sasquatch",
       "commanders": [
