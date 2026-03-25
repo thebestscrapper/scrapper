@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260324-203952-4kvg",
+      "title": "Leo Stole My Heart",
+      "commanders": [
+        "Leo Stole My Heart"
+      ],
+      "dateStart": "2026-03-25T00:39:52.000Z",
+      "dateEnd": "2026-03-25T02:26:34.000Z",
+      "dateLabel": "24/03/2026, 20:39:52 - 24/03/2026, 22:26:34",
+      "url": "https://thebestscrapper.github.io/scrapper/?report=20260324-203952-4kvg",
+      "summary": {
+        "borderlandsPct": 0.5789473684210527,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260318-203803-om9m",
       "title": "Leo Stole My Heart",
       "commanders": [
