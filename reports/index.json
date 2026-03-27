@@ -6,6 +6,39 @@
   },
   "entries": [
     {
+      "id": "20260326-202628-pnpo",
+      "title": "Leo Stole My Heart",
+      "commanders": [
+        "Leo Stole My Heart"
+      ],
+      "dateStart": "2026-03-27T00:26:28.000Z",
+      "dateEnd": "2026-03-27T02:58:10.000Z",
+      "dateLabel": "26/03/2026, 20:26:28 - 26/03/2026, 22:58:10",
+      "url": "https://thebestscrapper.github.io/scrapper/?report=20260326-202628-pnpo",
+      "summary": {
+        "borderlandsPct": 0.9791666666666666,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 30,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260324-203952-4kvg",
       "title": "Leo Stole My Heart",
       "commanders": [
