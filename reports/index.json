@@ -1,10 +1,30 @@
 {
-  "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Arcane",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260328-104857-dfe8",
+      "title": "R Ó N Î N",
+      "commanders": [
+        "R Ó N Î N"
+      ],
+      "dateStart": "2026-03-28T14:48:57.000Z",
+      "dateEnd": "2026-03-28T16:42:28.000Z",
+      "dateLabel": "28/03/2026, 10:48:57 - 28/03/2026, 12:42:28",
+      "url": "https://thebestscrapper.github.io/scrapper/?report=20260328-104857-dfe8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 37,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 22
+      }
+    },
     {
       "id": "20260326-202628-pnpo",
       "title": "Leo Stole My Heart",
