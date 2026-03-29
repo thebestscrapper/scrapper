@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260328-202500-pi4d",
+      "title": "Leo Stole My Heart",
+      "commanders": [
+        "Leo Stole My Heart"
+      ],
+      "dateStart": "2026-03-29T00:25:00.000Z",
+      "dateEnd": "2026-03-29T02:16:16.000Z",
+      "dateLabel": "28/03/2026, 20:25:00 - 28/03/2026, 22:16:16",
+      "url": "https://thebestscrapper.github.io/scrapper/?report=20260328-202500-pi4d",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 28,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260328-104857-dfe8",
       "title": "R Ó N Î N",
       "commanders": [
