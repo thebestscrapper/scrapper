@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260329-203152-nqh4",
+      "title": "Leo Stole My Heart",
+      "commanders": [
+        "Leo Stole My Heart"
+      ],
+      "dateStart": "2026-03-30T00:31:52.000Z",
+      "dateEnd": "2026-03-30T02:17:43.000Z",
+      "dateLabel": "29/03/2026, 20:31:52 - 29/03/2026, 22:17:43",
+      "url": "https://thebestscrapper.github.io/scrapper/?report=20260329-203152-nqh4",
+      "summary": {
+        "borderlandsPct": 0.38596491228070173,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260328-202500-pi4d",
       "title": "Leo Stole My Heart",
       "commanders": [
