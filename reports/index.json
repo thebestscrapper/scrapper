@@ -3,6 +3,35 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260402-212810-9wub",
+      "title": "Awesome Thief, Leo Stole My Heart",
+      "commanders": [
+        "Awesome Thief",
+        "Leo Stole My Heart"
+      ],
+      "dateStart": "2026-04-03T01:28:10.000Z",
+      "dateEnd": "2026-04-03T02:17:56.000Z",
+      "dateLabel": "02/04/2026, 21:28:10 - 02/04/2026, 22:17:56",
+      "url": "https://thebestscrapper.github.io/scrapper/?report=20260402-212810-9wub",
+      "summary": {
+        "borderlandsPct": 0.68,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260402-203155-d728",
       "title": "Leo Stole My Heart",
       "commanders": [
